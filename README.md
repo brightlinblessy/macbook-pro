@@ -74,15 +74,3 @@ src/
 
 ---
 
-## 🧩 Extending the Demo
-
-1. **Add more GSAP timelines** – e.g., fade‑in/out of feature boxes, camera moves, or material changes.
-2. **Swap textures** – use `setTexture` from the store to change the MacBook screen on scroll.
-3. **Responsive tweaks** – adjust `scale` and `position` based on breakpoints for tablets/phones.
-4. **Deploy** – host on Vercel, Netlify, or GitHub Pages (`npm run build` → `dist/`).
-
----
-
-## 📄 License
-
-This project is for learning purposes and is released under the **MIT License**. Feel free to fork, modify, and share!
